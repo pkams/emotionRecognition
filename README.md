@@ -5,3 +5,5 @@ O curso abordou diferentes ferramentas como OpenCV para manipulação das imagen
 O maior aprendizado deste curso foi a abordagem de diferentes arquiteturas para resolução de problemas deste tipo, possibilitando uma visão mais flexível para futuros projetos.
 
 Ao final, criei uma POC simples para demonstrar o conceito.
+
+POC: https://www.linkedin.com/feed/update/urn:li:activity:6704162791281983488/
